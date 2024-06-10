@@ -2,7 +2,7 @@ Practicing transformers and llms, specificially [openai-community/gpt2](https://
 
 Originally, I was going to use meta-llama/Llama-2-7b-hf but ran into some issues with size constraints of the model and limited computing power. 
 
-I also utilized the Flask app to make it similar to a chatbot. Please note this was done in about 2-3 days and I have not bothered to add other features.
+I also utilized the Flask app to make it similar to a chatbot. Please note this was done in about 2-3 days and I have not bothered to add other features as it was mostly for learning practice.
 
 Prompts I gave were "What is the ICD 10 code for diabetes?"
 
