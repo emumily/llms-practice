@@ -1,0 +1,58 @@
+ICD10_A00-A09,Intestinal infectious diseases
+ICD10_A15-A19_B90,Tuberculosis
+ICD10_A33_A35,Tetanus
+ICD10_A36,Diphtheria
+ICD10_A37,Whooping cough
+ICD10_A39,Meningococcal infection
+ICD10_A40-A41,Septicaemia
+ICD10_A50-A64,Infections with a predominantly sexual mode of transmission (excluding HIV)
+ICD10_A80_B91,Poliomyelitis
+ICD10_B05,Measles
+ICD10_B15-B19,Viral hepatitis
+ICD10_B20-B24,Human immunodeficiency virus [HIV] disease
+ICD10_B50-B54,Malaria
+ICD10_C00-C97,Total of malignant neoplams
+ICD10_C00-C14,"Malignant neoplasm of lip, oral cavity and pharynx"
+ICD10_C15,Malignant neoplasm of oesophagus
+ICD10_C16,Malignant neoplasm of stomach
+ICD10_C18-C21,"Malignant neoplasm of colon, rectosigmoid junction, rectum, anus and anal canal"
+ICD10_C22,Malignant neoplasm of liver and intrahepatic bile ducts
+ICD10_C25,Malignant neoplasm of pancreas
+ICD10_C33-C34,"Malignant neoplasm of trachea, bronchus and lung"
+ICD10_C43-C44,Melanoma and other skin cancers
+ICD10_C50,Malignant neoplasm of breast
+ICD10_C53,Malignant neoplasm of cervix uteri
+ICD10_C54-C55,Malignant neoplasm of corpus uteri
+ICD10_C56,Malignant neoplasm of ovary
+ICD10_C61,Malignant neoplasm of prostate
+ICD10_C67,Malignant neoplasm of bladder
+ICD10_C81-C90_C96,Malignant neoplasm of lymphomas and multiple myeloma
+ICD10_C91-C95,Leukaemia
+ICD10_D00-D48,Benign neoplasms
+ICD10_D50-D64,Anaemias
+ICD10_E10-E14,Diabetes mellitus
+ICD10_E40-E46,Malnutrition
+ICD10_F01_F03_G30-G31,Alzheimer and other dementias
+ICD10_I00-I09,Acute rheumatic fever and chronic rheumatic heart diseases
+ICD10_I10-I15,Hypertensive diseases
+ICD10_I20-I25,Ischaemic heart diseases
+ICD10_I60-I69,Cerebrovascular diseases
+ICD10_I70-I79,"Diseases of arteries, arterioles and capillaries"
+ICD10_J10-J11,Influenza
+ICD10_J12-J18,Pneumonia
+ICD10_J40-J47,Chronic lower respiratory diseases
+ICD10_K25-K27,Gastric and duodenal ulcer
+ICD10_K70-K76,Diseases of the liver
+ICD10_N00-N28,Disorders of kidney and ureter
+ICD10_N40,Hyperplasia of prostate
+ICD10_O00-O07,Pregnancy with abortive outcome
+ICD10_O10-O92_O95_A34,Other direct obstetric causes
+ICD10_O98-O99,Indirect obstetric causes
+ICD10_V01-V99,Transport accidents
+ICD10_W00-W19,Falls
+ICD10_W65-W74,Accidental drowning and submersion
+ICD10_X00-X09,"Exposure to smoke, fire and flames"
+ICD10_X40-X49,Accidental poisoning by and exposure to noxious substances
+ICD10_X60-X84_Y870,Intentional self-harm
+ICD10_X85-Y09_Y871,Assault
+ICD10_Y10-Y89,All other external causes

@@ -1,0 +1,545 @@
+{
+"copyright": "(c) World Health Organization",
+"dataset":
+[
+],
+"attribute":
+[
+],
+"dimension":
+[
+{
+"label": "ICD10CAUSEGROUP",
+"display": "ICD10CAUSEGROUP",
+"isMeasure": false,
+"code":
+[
+{
+"label": "ICD10_A00-A09",
+"display": "Intestinal infectious diseases",
+"display_sequence": 10,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_A15-A19_B90",
+"display": "Tuberculosis",
+"display_sequence": 20,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A15",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_A33_A35",
+"display": "Tetanus",
+"display_sequence": 30,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A33",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_A36",
+"display": "Diphtheria",
+"display_sequence": 40,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A36",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_A37",
+"display": "Whooping cough",
+"display_sequence": 50,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A37",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_A39",
+"display": "Meningococcal infection",
+"display_sequence": 60,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A39",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_A40-A41",
+"display": "Septicaemia",
+"display_sequence": 70,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A40",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_A50-A64",
+"display": "Infections with a predominantly sexual mode of transmission (excluding HIV)",
+"display_sequence": 80,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A50",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_A80_B91",
+"display": "Poliomyelitis",
+"display_sequence": 90,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/A80",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_B05",
+"display": "Measles",
+"display_sequence": 100,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/B05",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_B15-B19",
+"display": "Viral hepatitis",
+"display_sequence": 110,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/B15",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_B20-B24",
+"display": "Human immunodeficiency virus [HIV] disease",
+"display_sequence": 120,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/B20",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_B50-B54",
+"display": "Malaria",
+"display_sequence": 130,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/B50",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C00-C97",
+"display": "Total of malignant neoplams",
+"display_sequence": 140,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C00-C14",
+"display": "Malignant neoplasm of lip, oral cavity and pharynx",
+"display_sequence": 150,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C15",
+"display": "Malignant neoplasm of oesophagus",
+"display_sequence": 160,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C15",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C16",
+"display": "Malignant neoplasm of stomach",
+"display_sequence": 170,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C16",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C18-C21",
+"display": "Malignant neoplasm of colon, rectosigmoid junction, rectum, anus and anal canal",
+"display_sequence": 180,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C18",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C22",
+"display": "Malignant neoplasm of liver and intrahepatic bile ducts",
+"display_sequence": 190,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C22",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C25",
+"display": "Malignant neoplasm of pancreas",
+"display_sequence": 200,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C25",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C33-C34",
+"display": "Malignant neoplasm of trachea, bronchus and lung",
+"display_sequence": 210,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C33",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C43-C44",
+"display": "Melanoma and other skin cancers",
+"display_sequence": 220,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C43",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C50",
+"display": "Malignant neoplasm of breast",
+"display_sequence": 230,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C50",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C53",
+"display": "Malignant neoplasm of cervix uteri",
+"display_sequence": 240,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C53",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C54-C55",
+"display": "Malignant neoplasm of corpus uteri",
+"display_sequence": 250,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C54",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C56",
+"display": "Malignant neoplasm of ovary",
+"display_sequence": 260,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C56",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C61",
+"display": "Malignant neoplasm of prostate",
+"display_sequence": 270,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C61",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C67",
+"display": "Malignant neoplasm of bladder",
+"display_sequence": 280,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C67",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C81-C90_C96",
+"display": "Malignant neoplasm of lymphomas and multiple myeloma",
+"display_sequence": 290,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C81",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_C91-C95",
+"display": "Leukaemia",
+"display_sequence": 300,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/C91",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_D00-D48",
+"display": "Benign neoplasms",
+"display_sequence": 310,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/D00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_D50-D64",
+"display": "Anaemias",
+"display_sequence": 320,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/D50",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_E10-E14",
+"display": "Diabetes mellitus",
+"display_sequence": 330,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/E10",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_E40-E46",
+"display": "Malnutrition",
+"display_sequence": 340,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/E40",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_F01_F03_G30-G31",
+"display": "Alzheimer and other dementias",
+"display_sequence": 350,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/F01",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_I00-I09",
+"display": "Acute rheumatic fever and chronic rheumatic heart diseases",
+"display_sequence": 360,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/I00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_I10-I15",
+"display": "Hypertensive diseases",
+"display_sequence": 370,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/I10",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_I20-I25",
+"display": "Ischaemic heart diseases",
+"display_sequence": 380,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/I20",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_I60-I69",
+"display": "Cerebrovascular diseases",
+"display_sequence": 390,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/I60",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_I70-I79",
+"display": "Diseases of arteries, arterioles and capillaries",
+"display_sequence": 400,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/I70",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_J10-J11",
+"display": "Influenza",
+"display_sequence": 410,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/J10",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_J12-J18",
+"display": "Pneumonia",
+"display_sequence": 420,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/J12",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_J40-J47",
+"display": "Chronic lower respiratory diseases",
+"display_sequence": 430,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/J40",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_K25-K27",
+"display": "Gastric and duodenal ulcer",
+"display_sequence": 440,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/K25",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_K70-K76",
+"display": "Diseases of the liver",
+"display_sequence": 450,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/K70",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_N00-N28",
+"display": "Disorders of kidney and ureter",
+"display_sequence": 460,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/N00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_N40",
+"display": "Hyperplasia of prostate",
+"display_sequence": 470,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/N40",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_O00-O07",
+"display": "Pregnancy with abortive outcome",
+"display_sequence": 480,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/O00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_O10-O92_O95_A34",
+"display": "Other direct obstetric causes",
+"display_sequence": 490,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/O10",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_O98-O99",
+"display": "Indirect obstetric causes",
+"display_sequence": 500,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/O98",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_V01-V99",
+"display": "Transport accidents",
+"display_sequence": 510,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/V01",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_W00-W19",
+"display": "Falls",
+"display_sequence": 520,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/W00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_W65-W74",
+"display": "Accidental drowning and submersion",
+"display_sequence": 530,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/W65",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_X00-X09",
+"display": "Exposure to smoke, fire and flames",
+"display_sequence": 540,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/X00",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_X40-X49",
+"display": "Accidental poisoning by and exposure to noxious substances",
+"display_sequence": 550,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/X40",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_X60-X84_Y870",
+"display": "Intentional self-harm",
+"display_sequence": 560,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/X60",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_X85-Y09_Y871",
+"display": "Assault",
+"display_sequence": 570,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/X85",
+"attr":
+[
+]
+},
+{
+"label": "ICD10_Y10-Y89",
+"display": "All other external causes",
+"display_sequence": 580,
+"url": "http://apps.who.int/classifications/icd10/browse/2010/en#/Y10",
+"attr":
+[
+]
+}
+]
+}
+],
+"fact":
+[
+]
+}
